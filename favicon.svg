@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <title>Rainline Gutters</title>
+  <defs>
+    <linearGradient id="m" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#f6f8fa"/>
+      <stop offset="0.48" stop-color="#d9dfe6"/>
+      <stop offset="0.52" stop-color="#b9c3ce"/>
+      <stop offset="1" stop-color="#e9edf1"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="14" fill="#0b1a2e"/>
+  <path d="M22 10l-3 7M32 8l-3 8M42 10l-3 7" stroke="#4cc3ff" stroke-width="2.5" stroke-linecap="round" fill="none"/>
+  <path d="M12 22h40v6a10 10 0 0 1-10 10H22a10 10 0 0 1-10-10z" fill="url(#m)"/>
+  <path d="M12 22h40" stroke="#ffffff" stroke-width="3" stroke-linecap="round"/>
+  <path d="M40 38v14" stroke="#4cc3ff" stroke-width="5" stroke-linecap="round"/>
+</svg>
